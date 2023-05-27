@@ -31,3 +31,6 @@ Todo:
 	
 3. SWS:
 	- dokończyć
+	
+	
+	diagramy czynności, sekwencji, klas, use case, wygenerowane źródła
