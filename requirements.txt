@@ -1,0 +1,5 @@
+szablony x2
+Model przypadków użycia w oparciu o specyfikację SWS
+scenariusze z wygenerowaniem diagramu czynności (?)
+Modele behawioralne: diagramy sekwencji oraz czynności w zależności od specyfiki przypadku użycia
+Diagram klas dla specyfikowanego systemu (jeden na projekt)
