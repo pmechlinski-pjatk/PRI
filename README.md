@@ -1,20 +1,20 @@
 # PRI
-Repository for system design labs
+Repozytorium dla zajęć z Projektowania Systemów Informatycznych
 
-Changelog:
-0.1 Use case diagram first version
-0.2 (13.05) Sequence diagram for "Utwórz nowy nawyk"
-0.3 (16.06) Merged pmechlinski branch, prepare for final version.
+Dziennik zmian:
+0.1 Diagram przypadków pierwsza wersja
+0.2 (13.05) Diagram sekwencji dla 'utwórz nowy nawyk'
+0.3 (16.06) Połączono z gałęzią pmechlinski, przygotowania do finalnej wersji.
 
-Done:
+Zrobione:
 - SWS
 - DZW
+- Model przypadków użycia
 
-In review:
-- Use case model: check for area boxes, lines, ???
-- Sequence diagrams: check icons, 
 
 In progress:
-- class diagram
-- diagramy czynności (?)
-- wygenerowane źródła ???
+- diagramy sekwencji: został wyświetlReklamy 
+- diagram klas
+
+Do zrobienia:
+- Zweryfikować czy coś jeszcze jest do zrobienia
